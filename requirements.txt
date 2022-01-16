@@ -1,0 +1,6 @@
+gate_api==4.23.1
+matplotlib==3.4.0
+mpl_finance==0.10.1
+numpy==1.21.4
+pandas==1.2.3
+plotly==5.5.0
